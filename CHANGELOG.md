@@ -6,6 +6,10 @@ All notable changes to **LX Bandits Split-Screen Fix**.
 
 First public release on the Steam Workshop and GitHub.
 
+### Changed in this version
+
+- Russian translation added (EN/ES/AR/RU).
+
 ### Included
 
 - Damage goes to the right player
