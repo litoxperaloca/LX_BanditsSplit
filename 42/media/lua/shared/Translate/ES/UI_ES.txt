@@ -1,0 +1,8 @@
+UI_ES = {
+    UI_LXBS_name = "LX Bandits arreglo pantalla dividida",
+    UI_LXBS_desc = "Los arreglos de pantalla dividida para Bandits estan siempre activos. Las opciones de abajo ajustan la IA extra.",
+    UI_LXBS_investigate = "Los bandidos investigan ruidos fuertes de cualquier jugador",
+    UI_LXBS_investigate_tip = "Los bandidos hostiles que oyen un ruido fuerte (disparo, alarma...) de cualquier jugador local van a revisar el lugar.",
+    UI_LXBS_radius = "Radio minimo del ruido",
+    UI_LXBS_radius_tip = "Ruidos mas chicos que esto (en casillas) se ignoran. Un disparo suele ser 30 o mas.",
+}

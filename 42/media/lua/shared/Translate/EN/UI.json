@@ -1,0 +1,8 @@
+{
+    "UI_LXBS_name": "LX Bandits Split-Screen Fix",
+    "UI_LXBS_desc": "Split-screen fixes for Bandits are always on. Options below tune the extra AI behaviour.",
+    "UI_LXBS_investigate": "Bandits investigate any player's loud noises",
+    "UI_LXBS_investigate_tip": "Hostile bandits that hear a loud noise (gunshot, alarm...) made by any local player go check the spot.",
+    "UI_LXBS_radius": "Minimum noise radius",
+    "UI_LXBS_radius_tip": "Noises smaller than this (in tiles) are ignored. Gunshots are usually 30+."
+}
