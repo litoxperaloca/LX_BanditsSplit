@@ -1,5 +1,5 @@
 version=1
-id=
+id=3831311369
 title=LX Bandits Split-Screen Fix
 description=[h1]LX Bandits Split-Screen Fix[/h1]
 description=[i]Bandits that shoot at the player they are actually looking at[/i]
