@@ -1,4 +1,4 @@
-name=LX Bandits Split-Screen Fix
+name=LX Bandits Split-Screen Fix [B42]
 id=LX_BanditsSplit
 author=litoxperaloca
 description=[EN] Makes Bandits (Bandits2) work in split-screen. Bandits detect, chase, hit, shoot and shove the RIGHT player instead of always targeting player 1. Companions follow whoever recruited them, raids spawn around any player, visibility uses each player's own light cone, and the kill counter shows that player's kills. Optionally, hostile bandits investigate loud noises from any local player. Bandits' own files are never shipped or overwritten: they are read from your installed copy and patched in memory, so this always runs on top of whatever Bandits version you have. Must load AFTER Bandits.
