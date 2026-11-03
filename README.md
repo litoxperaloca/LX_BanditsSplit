@@ -73,7 +73,7 @@ Options → MODS → **LX Bandits Split-Screen Fix**. The split-screen fixes are
 
 ### Support
 
-If these mods made your co-op run work, you can buy me a coffee — [ko-fi.com/litoxperaloca](https://ko-fi.com/litoxperaloca)
+If these mods made your co-op run work, you can buy me a coffee — [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T2O829VMQJ)
 
 ### The rest of the suite
 
@@ -152,7 +152,7 @@ Opciones → MODS → **LX Bandits arreglo pantalla dividida**. Los arreglos de 
 
 ### Apoyar
 
-Si estos mods te arreglaron el coop, podés invitarme un café — [ko-fi.com/litoxperaloca](https://ko-fi.com/litoxperaloca)
+Si estos mods te arreglaron el coop, podés invitarme un café — [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T2O829VMQJ)
 
 ### El resto de la suite
 
@@ -231,7 +231,7 @@ B42 продолжает улучшать поддержку контролле�
 
 ### Поддержать
 
-Если эти моды помогли вашей совместной игре, можете угостить меня кофе — [ko-fi.com/litoxperaloca](https://ko-fi.com/litoxperaloca)
+Если эти моды помогли вашей совместной игре, можете угостить меня кофе — [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T2O829VMQJ)
 
 ### Остальные моды набора
 
