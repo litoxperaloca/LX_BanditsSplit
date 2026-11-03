@@ -7,16 +7,17 @@ description=In split-screen every bandit action landed on player 1, whoever it w
 description=
 description=[h2]What it does[/h2]
 description=[list]
-description=[*][b]Damage goes to the right player[/b] - Bandits detect, chase, hit, shoot and shove whoever they are actually engaging, instead of routing…
+description=[*][b]Damage goes to the right player[/b] - Bandits detect, chase, hit, shoot and shove whoever they are actually engaging, instead of routing everything through player 1.
 description=[*][b]Players stop being indistinguishable[/b] - Outside online multiplayer, Bandits gave every player the same character ID - literally the number 1.
-description=[*][b]Visibility uses your own light[/b] - How visible a character is was always computed with player 1's light level, which includes player 1's…
+description=[*][b]Visibility uses your own light[/b] - How visible a character is was always computed with player 1's light level, which includes player 1's vision cone.
 description=[*][b]Companions follow who recruited them[/b] - A recruited companion followed player 1 no matter who recruited them.
-description=[*][b]Raids and ambient AI spread out[/b] - Raids spawn around any player.
-description=[*][b]Bandits investigate noise from anyone *(optional)*[/b] - When any local player makes a loud noise - a gunshot, an alarm, banging on a door - hostile bandits that…
+description=[*][b]Raids and ambient AI spread out[/b] - Raids spawn around any player. Bandit chatter, endurance and task sounds use the nearest player instead of player 1.
+description=[*][b]Bandits investigate noise from anyone *(optional)*[/b] - When any local player makes a loud noise - a gunshot, an alarm, banging on a door - hostile bandits that heard it remember the…
 description=[/list]
 description=[b]Requires:[/b] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3268487204]Bandits[/url]
 description=[b]Load it AFTER[/b] Bandits2.
 description=[b]Install:[/b] Subscribe, then enable it under Mods in the main menu. In split-screen, enabling it once covers every player.
+description=[b]Options:[/b] Options → MODS → [b]LX Bandits Split-Screen Fix[/b]. The split-screen fixes are always on; the options only control the optional noise-investigation AI and its minimum noise radius.
 description=[b]License:[/b] CC0 1.0 - public domain. Do anything you want with it, no permission needed.
 description=[b]Full details in English, Spanish and Russian:[/b] [url=https://github.com/litoxperaloca/LX_BanditsSplit]GitHub[/url]
 description=
@@ -27,16 +28,17 @@ description=En pantalla dividida toda acción de los bandidos caía sobre el jug
 description=
 description=[h2]Qué hace[/h2]
 description=[list]
-description=[*][b]El daño va al jugador correcto[/b] - Los bandidos detectan, persiguen, golpean, disparan y empujan a quien realmente están enfrentando, en vez…
-description=[*][b]Los jugadores dejan de ser indistinguibles[/b] - Fuera del multijugador online, Bandits le daba a todos los jugadores el mismo ID de personaje…
-description=[*][b]La visibilidad usa tu propia luz[/b] - Qué tan visible es un personaje se calculaba siempre con el nivel de luz del jugador 1, que incluye su…
+description=[*][b]El daño va al jugador correcto[/b] - Los bandidos detectan, persiguen, golpean, disparan y empujan a quien realmente están enfrentando, en vez de mandar todo al…
+description=[*][b]Los jugadores dejan de ser indistinguibles[/b] - Fuera del multijugador online, Bandits le daba a todos los jugadores el mismo ID de personaje - literalmente el número 1.
+description=[*][b]La visibilidad usa tu propia luz[/b] - Qué tan visible es un personaje se calculaba siempre con el nivel de luz del jugador 1, que incluye su cono de visión.
 description=[*][b]Los compañeros siguen a quien los reclutó[/b] - Un compañero reclutado seguía al jugador 1 sin importar quién lo hubiera reclutado.
 description=[*][b]Las incursiones y la IA de ambiente se reparten[/b] - Las incursiones aparecen alrededor de cualquier jugador.
-description=[*][b]Los bandidos investigan ruidos de cualquiera *(opcional)*[/b] - Cuando cualquier jugador local hace un ruido fuerte - un disparo, una alarma, golpear una puerta - los…
+description=[*][b]Los bandidos investigan ruidos de cualquiera *(opcional)*[/b] - Cuando cualquier jugador local hace un ruido fuerte - un disparo, una alarma, golpear una puerta - los bandidos hostiles que lo…
 description=[/list]
 description=[b]Requiere:[/b] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3268487204]Bandits[/url]
 description=[b]Cargá este DESPUÉS de[/b] Bandits2.
 description=[b]Instalación:[/b] Suscribite y activalo en Mods, en el menú principal. En pantalla dividida, con activarlo una vez alcanza para todos.
+description=[b]Opciones:[/b] Opciones → MODS → [b]LX Bandits arreglo pantalla dividida[/b]. Los arreglos de pantalla dividida están siempre activos; las opciones solo controlan la IA opcional de investigar ruidos y su radio mínimo.
 description=[b]Licencia:[/b] CC0 1.0 - dominio público. Hacé lo que quieras, sin pedir permiso.
 description=[b]Detalle completo en inglés, español y ruso:[/b] [url=https://github.com/litoxperaloca/LX_BanditsSplit]GitHub[/url]
 description=
@@ -47,16 +49,17 @@ description=При разделённом экране любое действи
 description=
 description=[h2]Что делает[/h2]
 description=[list]
-description=[*][b]Урон достаётся нужному игроку[/b] - Бандиты замечают, преследуют, бьют, стреляют и толкают…
-description=[*][b]Игроки перестают быть неразличимыми[/b] - Вне сетевой игры Bandits выдавал всем игрокам одинаковый…
-description=[*][b]Видимость считается по вашему свету[/b] - Насколько персонаж заметен, всегда считалось по уровню…
-description=[*][b]Напарники следуют за тем, кто их нанял[/b] - Нанятый напарник шёл за первым игроком независимо от того…
+description=[*][b]Урон достаётся нужному игроку[/b] - Бандиты замечают, преследуют, бьют, стреляют и толкают того, с кем…
+description=[*][b]Игроки перестают быть неразличимыми[/b] - Вне сетевой игры Bandits выдавал всем игрокам одинаковый идентификатор…
+description=[*][b]Видимость считается по вашему свету[/b] - Насколько персонаж заметен, всегда считалось по уровню освещения…
+description=[*][b]Напарники следуют за тем, кто их нанял[/b] - Нанятый напарник шёл за первым игроком независимо от того, кто его…
 description=[*][b]Рейды и фоновый ИИ распределяются[/b] - Рейды появляются вокруг любого игрока.
-description=[*][b]Бандиты расследуют шум от любого *(необязательно)*[/b] - Когда любой локальный игрок создаёт громкий звук…
+description=[*][b]Бандиты расследуют шум от любого *(необязательно)*[/b] - Когда любой локальный игрок создаёт громкий звук - выстрел…
 description=[/list]
 description=[b]Требует:[/b] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3268487204]Bandits[/url]
 description=[b]Загружать ПОСЛЕ[/b] Bandits2.
 description=[b]Установка:[/b] Подпишитесь и включите мод в разделе Моды главного меню. При разделённом экране достаточно одного раза для всех.
+description=[b]Настройки:[/b] Настройки → МОДЫ → [b]LX Bandits: исправление разделённого экрана[/b].
 description=[b]Лицензия:[/b] CC0 1.0 - общественное достояние. Делайте что угодно, разрешение не нужно.
 description=[b]Полное описание на английском, испанском и русском:[/b] [url=https://github.com/litoxperaloca/LX_BanditsSplit]GitHub[/url]
 description=
